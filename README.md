@@ -1,7 +1,9 @@
-### Olá! Sou Edney Cavalcanti
+## Olá! Sou Edney Cavalcanti 👋
 
 - 🌱 Estudante Desenvolvimento web na Trybe
+- 📖 Graduando em Sistemas da informação - UFRPE
 - 📫 Contate-me no email: edney2809@gmail.com
+- 💻 LinkedIn: https://www.linkedin.com/in/edney-cavalcanti/
 
 <div>
   <a href="https://github.com/ed-cavalcanti">
@@ -9,19 +11,26 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-cavalcanti&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### Tecnologias que uso no dia a dia:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Redux" height="30" width="30"src="https://img.icons8.com/color/480/redux.png">
+  <img align="center" alt="Jest" height="30" width="30"src="https://mulder21c.github.io//jest/img/jest.png">
+</div>
+
+### O que estou aprendendo:
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="styled components" height="30" width="30" src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png">
+  <img align="center" alt="sass" height="30" width="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png">
+  <img align="center" alt="cypress" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png">
 </div>
   
- ##
-  
 <div> 
-  <a href="https://instagram.com/ed_cvlt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:edney2809@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edney-cavalcanti-064678201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![snake gif](https://github.com/ed-cavalcanti/ed-cavalcanti/blob/output/github-contribution-grid-snake.svg)
   
