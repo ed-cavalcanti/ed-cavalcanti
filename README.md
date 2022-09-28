@@ -25,9 +25,11 @@
 ### O que estou aprendendo:
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="styled components" height="30" width="30" src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png">
-  <img align="center" alt="sass" height="30" width="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png">
-  <img align="center" alt="cypress" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png">
+  <img aling="center" alt="Typescript" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" >
+  <img aling="center" alt="SASS" width="30" height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" >
+  <img aling="center" alt="Node.js" width="30" height="30" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" >
+  <img aling="center" alt="MySql" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" >
+  <img aling="center" alt="express" width="90" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
 </div>
   
 <div> 
