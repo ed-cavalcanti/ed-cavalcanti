@@ -15,9 +15,9 @@
   srcset="https://github-readme-stats.vercel.app/api?username=ed-cavalcanti&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=ed-cavalcanti&show_icons=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=ed-cavalcanti&show_icons=true" align="center" height="150px" />
 </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-cavalcanti&layout=compact&theme=onedark" align="center" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-cavalcanti&layout=compact&theme=onedark" align="center" height="150px"/>
 </div>
   
 ### Tecnologias que uso no dia a dia:
