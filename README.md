@@ -6,9 +6,18 @@
 - 💻 LinkedIn: https://www.linkedin.com/in/edney-cavalcanti/
 
 <div>
-  <a href="https://github.com/ed-cavalcanti">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ed-cavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-cavalcanti&layout=compact&langs_count=7&theme=dark"/>
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ed-cavalcanti&show_icons=true&theme=onedark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ed-cavalcanti&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=ed-cavalcanti&show_icons=true" align="center" />
+</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-cavalcanti&layout=compact&theme=onedark" align="center" height="195px"/>
 </div>
   
 ### Tecnologias que uso no dia a dia:
