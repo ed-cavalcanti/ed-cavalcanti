@@ -1,6 +1,6 @@
 ## Olá! Sou Edney Cavalcanti 👋
 
-- 🌱 Estudante Desenvolvimento web na Trybe
+- 👨‍💻 Desenvolvedor Web FullStack
 - 📖 Graduando em Sistemas da informação - UFRPE
 - 📫 Contate-me no email: edney2809@gmail.com
 - 💻 LinkedIn: https://www.linkedin.com/in/edney-cavalcanti/
