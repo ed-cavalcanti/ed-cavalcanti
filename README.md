@@ -1,4 +1,4 @@
-## Olá! Sou Edney Cavalcanti 👋
+## Olá, Boas vindas! 👋
 
 - 👨‍💻 Desenvolvedor Web FullStack
 - 📖 Graduando em Sistemas da informação - UFRPE
