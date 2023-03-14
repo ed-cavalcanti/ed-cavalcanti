@@ -1,4 +1,4 @@
-## Olá, Boas vindas! 👋
+## Oi, eu sou o Ed! 👋
 
 - 👨‍💻 Desenvolvedor Web FullStack
 - 📖 Graduando em Sistemas da informação - UFRPE
