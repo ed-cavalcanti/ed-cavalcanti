@@ -21,25 +21,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-cavalcanti&layout=compact&theme=onedark" align="center" height="150px"/>
 </div>
   
-### Tecnologias que uso no dia a dia:
+### Principais tecnologias:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Redux" height="30" width="30"src="https://img.icons8.com/color/480/redux.png">
-  <img align="center" alt="Jest" height="30" width="30"src="https://mulder21c.github.io//jest/img/jest.png">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3"height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Node.js"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Prisma ORM"height="40" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png">
 </div>
 
 ### O que estou aprendendo:
   
-<div style="display: inline_block"><br>
-  <img aling="center" alt="Typescript" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" >
-  <img aling="center" alt="SASS" width="30" height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" >
-  <img aling="center" alt="Node.js" width="30" height="30" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" >
-  <img aling="center" alt="MySql" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" >
-  <img aling="center" alt="express" width="90" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+<div style="display: inline-block"><br>
+  <img aling="center" alt="Typescript" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" >
+  <img aling="center" alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" >
+  <img aling="center" alt="flutter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img aling="center" alt="dart" width="40" height="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/dart-programming-language-icon.png">
+  <img aling="center" alt="python" width="40" height="40" src="https://www.svgrepo.com/show/374016/python.svg">
 </div>
   
 <div> 
