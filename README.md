@@ -32,7 +32,7 @@
   <img align="center" alt="Prisma ORM"height="40" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png">
 </div>
 
-### O que estou aprendendo:
+### O que estou aprendendo: 
   
 <div style="display: inline-block"><br>
   <img aling="center" alt="Typescript" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" >
