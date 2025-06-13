@@ -4,7 +4,7 @@
 - 📖 Graduando em Sistemas da informação - UFRPE
 - 🌐 Site: https://edney-cavalcanti.vercel.app
 - 📫 Contate-me no email: edney2809@gmail.com
-- 💻 LinkedIn: https://www.linkedin.com/in/edney-cavalcanti/
+- 💻 LinkedIn: https://www.linkedin.com/in/edney-santos/
 
 <div>
   <picture>
